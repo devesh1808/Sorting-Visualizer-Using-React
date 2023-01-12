@@ -1,0 +1,61 @@
+.header{
+    background: rgb(25, 181, 48);
+    color: black;
+    font-size: medium;
+    padding: 10px 0px 10px 0px ;
+    width: 100%;
+}
+.dropdown{
+    height: 40px ;
+    width: 150;
+    padding: 10 ;
+    font-weight: bold ;
+    background: rgba(255, 255, 255, 0.767);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: 'pointer'
+}
+.generate-button{
+    width: 130;
+    background: #0D1929 ;
+    border-color: black;
+    font-weight: bold
+}
+.slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items : center,
+}
+.text{
+    color: black;
+    font-weight : bold ;
+    text-align: center;
+}
+.home{
+    background-color: black;
+    display: flex;
+    height: 80%;
+    width: 90vw;
+    flex-direction: row;
+    align-items: flex-end ;
+    padding: 0% 5% 1% 5%;
+}
+.define{
+    background-color: rgba(255, 255, 255, 0.772);
+    height: 80%;
+    width: 90vw;
+    flex-direction: row;
+    align-items: flex-end ;
+    padding: 0% 1% 1% 5%;  
+}
+.detail{
+    font-weight: bold;
+    font-size :medium;
+
+}
+table ,th ,td{
+    border: 1px solid black;
+    width :25%;
+}
