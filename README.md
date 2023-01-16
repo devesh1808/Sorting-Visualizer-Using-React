@@ -1,5 +1,6 @@
 # Sorting Visualizer
 
+# •	It is a Web Application which represents the visualization of  various sorting algorithms
 ## Algorithms to Visualize
 :white_check_mark:  Bubble Sort<br><br>
 :white_check_mark:  Insertion Sort<br><br>
