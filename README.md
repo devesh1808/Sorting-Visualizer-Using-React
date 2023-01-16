@@ -8,9 +8,18 @@
 :white_check_mark:  QuickSort <br><br>
 :white_check_mark:  Merge Sort<br><br>
 
-## Color Codes
-[#1e90ff] Generic value in the array <br><br>
-[#fcfb06] Value to be replaced <br><br>
-[#06e58d] Value that beign swapped <br><br>
-[#fc0104] comparison bars <br><br>
+## •	Features Added
+                                                        
+-	Option for choosing Sorting Algorithm for the Visualization
+      
+-	Slide Bar for controlling the speed of Visualization
+                                                    
+-	Slide Bar to change the size of array (elements of an array are represented by bars and their values with height of bars)
+                                                     
+-	A generate button to get random array at any time
+                                                                  
+-	Start button to start the visualization process and to show dynamic representation of sorting algorithm
+                                                             
+-	Details about the currently selected sorting algorithm (Definition and Time Complexity) at the footer section
+
 
